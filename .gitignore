@@ -4,3 +4,6 @@ __pycache__/
 
 # Virtual environment
 .venv/
+
+#python files exclusively for learning
+epam_l/
